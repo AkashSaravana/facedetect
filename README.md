@@ -3,14 +3,6 @@
 ## Introduction:
 This project aims to create an interactive presentation tool that uses hand gestures to control various actions. By recognizing the number of fingers a user is holding up, the application will perform corresponding operations, such as moving forward, moving backward, pointing, writing, and undoing writing.
 
-## To install the Engaging Presentations with Hand Gestures, please follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies by running the following command:
-
-```
-pip install -r requirement.txt
-```
-
 
 ## Libraries used:
 * OpenCV (cv2): For image processing and computer vision tasks.
